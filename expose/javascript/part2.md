@@ -36,4 +36,7 @@
 16. In `part2-question16.js`
 17. The values in `newArr` will be `[2,4,6]`. The `modifyArray` function takes in the input array `[1,2,3]` and calls the `doSomething` function to double the element at index `i` in the input array `array`. The new value is stored into `newArr`. After each element has been pushed to `newArr`, `newArr` is returned.
 18. In `part2-question18.js`
-19. 
+19. 1 <br>
+    4 <br>
+    3 <br>
+    2 <br>
